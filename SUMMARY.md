@@ -1,5 +1,5 @@
 # Summary
-
+* [Tips](cpp-tips.md)
 * [第一章 开始](chapter1.md)
 * [第二章 变量和基本类型](chapter2.md)
 * [第三章 字符串、向量和数组](chapter3.md)
