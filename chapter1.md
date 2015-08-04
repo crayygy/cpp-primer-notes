@@ -403,7 +403,7 @@ prog1.cc:5:22: error: expected expression
 
   可以自己输入一个不等于`val`的值来看看程序执行的结果。某些IDE会在你写出这个判断的时候就进行提醒，比如我用的是Xcode6。
 
-![if-condition](./screenshots/ch1-if-condition.png "if-condition")
+![if-condition](./screenshots/ch1/if-condition.png "if-condition")
 
 #### ex1.17 ~ ex1.19
     请自行编码解决问题。
