@@ -246,6 +246,6 @@ long double  | 扩展精度浮点数  |   10位有效数字
         std::string local_str;
     }
 ```
-![ex2.10] (./screenshots/ch2/ex2.10.png "ex2.10")
+  ![ex2.10](./screenshots/ch2/ex2.10.png "ex2.10")
 
 
